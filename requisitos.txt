@@ -1,1 +1,1 @@
-RF01 - Monitoramento de umidade do solo
+FR01 - Controle de Irrigação Automática
